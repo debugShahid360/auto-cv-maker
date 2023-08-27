@@ -1,0 +1,29 @@
+﻿
+*{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.container-fluid{
+    background-image: url("./assets/img/engin-akyurt-Hlkuojv_P6I-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+
+.h1{
+    color:white;
+}
+.mainbox{
+    background-color: rgba(255, 255, 255, 0.28);
+    border:none;
+   width:100%;
+
+}
+.cardmain{
+    margin: 0px auto;
+    padding:0px;
+    box-shadow: 0px 0px 5px 0px  white;
+
+}
+
